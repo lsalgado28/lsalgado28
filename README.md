@@ -1,27 +1,26 @@
 <!--
 **lsalgado28/lsalgado28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Laila Salgado
+# Hi, I'm Laila Salgado
 
 I am a student at MIT studying Artificial Intelligence and Decision Making. I use this portfolio to showcase personal projects, along with generalized versions of work I've done in research and internships.
 
-Projects
-Wind Turbine Emissions Forecasting (LSTM)
+## Projects
 
+### [Wind Turbine Emissions Forecasting (LSTM)](https://github.com/your-username/wind-turbine-emissions-forecasting)
 A PyTorch LSTM model that forecasts total wind turbine emissions (tCO2e) one month ahead from daily operational sensor data: wind speed, power output, ambient/gearbox temperature, and maintenance events.
 
 Generalized, from-scratch rebuild of a forecasting pipeline originally built during an industry internship, using synthetic public-style data so the full pipeline is shareable.
 
-Stack: Python, PyTorch, pandas, NumPy
+**Stack:** Python, PyTorch, pandas, NumPy
 
-RAG Agent: Renewable Energy Knowledge Base
-
+### [RAG Agent: Renewable Energy Knowledge Base](https://github.com/your-username/renewable-energy-rag-agent)
 A retrieval-augmented generation agent that answers questions by retrieving relevant chunks from a knowledge base and generating a grounded, cited answer with an LLM.
 
 Generalized, from-scratch rebuild of an agentic RAG pipeline originally built during an industry internship, using a public knowledge base covering wind energy, emissions reporting, and grid balancing.
 
-Stack: Python, LLM APIs, vector search / embeddings, retrieval pipeline
+**Stack:** Python, LLM APIs, vector search / embeddings, retrieval pipeline
 
-Connect
+## Connect
 
-LinkedIn
+[LinkedIn](https://www.linkedin.com/in/laila-salgado)
