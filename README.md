@@ -1,6 +1,6 @@
 ## Laila Salgado
 
-I am a student at MIT studying Artificial Intelligence and Decision Making. I use this portfolio to showcase personal projects, along with generalized versions of work I've done in research and internships.
+I am an undergraduate student studying Artificial Intelligence and Decision Making at MIT. I use this portfolio to showcase personal projects, along with generalized versions of work I've done in research and internships.
 
 ## Projects
 
