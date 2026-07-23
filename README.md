@@ -11,7 +11,7 @@ Generalized, from-scratch rebuild of a forecasting pipeline originally built dur
 
 **Stack:** Python, PyTorch, pandas, NumPy
 
-## RAG Agent: Wind Sustainability Knowledge Base
+## RAG Agent: Renewable Energy Knowledge Base
 A retrieval-augmented generation agent that answers questions by retrieving relevant chunks from a knowledge base and generating a grounded, cited answer with an LLM.
 
 Generalized, from-scratch rebuild of an agentic RAG pipeline originally built during an industry internship, using a public knowledge base covering wind energy, emissions reporting, and grid balancing.
