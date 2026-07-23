@@ -18,6 +18,13 @@ Generalized, from-scratch rebuild of an agentic RAG pipeline originally built du
 
 **Stack:** Python, LLM APIs, vector search / embeddings, retrieval pipeline
 
+## 3D Micro-Device Segmentation (U-Net)
+A 3D U-Net with self-supervised pretraining for segmenting small elongated objects from volumetric imaging data, evaluated via Dice coefficient and Hausdorff distance.
+
+Generalized, from-scratch rebuild of a 3D segmentation pipeline originally built during an undergraduate research position, using synthetic public-style volumes so the architecture and training code are fully shareable.
+
+**Stack:** Python, PyTorch, NumPy, SciPy
+
 ## Connect
 
 [LinkedIn](https://www.linkedin.com/in/laila-salgado)
